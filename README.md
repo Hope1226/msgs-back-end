@@ -31,8 +31,8 @@ You need to have followings installed in your local machine:
 To setup the Items Library project in your local, in the repo page: 
 - click on code (dropdown list) > Download as ZIP. 
 - or open terminal of path you want to install project and run this command:
-`git clone git@github.com:Hope1226/msgs-front-end.git`
-`git clone git@github.com:Hope1226/msgs-back-end.git`
+- `git clone git@github.com:Hope1226/msgs-front-end.git`
+- `git clone git@github.com:Hope1226/msgs-back-end.git`
 ### Setup: Rails
 - `cd msgs-back-end/`
 - `bundle install`
